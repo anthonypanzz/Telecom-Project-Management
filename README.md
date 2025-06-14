@@ -6,6 +6,10 @@ Our client operated on a legacy dispatch system vulnerable to hardware failures,
 ## Our Mission
 A Zetron MAX Dispatch solution was proposed to enhance reliability, functionality, security, and future-readiness of their IT and radio infrastructure.
 
+![zetron-image](https://github.com/user-attachments/assets/9da99af3-259f-4e04-ae40-b40254b6ed0d)
+
+---
+
 ## Key Objectives:
 - **System Redundancy:** Zetron's MAX Dispatch system is engineered with robust redundancy features to ensure high availability and reliability, which are critical for mission-critical dispatch operations.
 - **Computer-Aided Dispatch (CAD) Integration:** Facilitating seamless communication between dispatchers and field units. MAX Dispatch is designed to support interoperability with various CAD platforms, enhancing operational efficiency and coordination.
