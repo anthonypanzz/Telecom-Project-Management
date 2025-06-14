@@ -8,7 +8,7 @@ A Zetron MAX Dispatch solution was proposed to enhance reliability, functionalit
 
 ![zetron-image](https://github.com/user-attachments/assets/9da99af3-259f-4e04-ae40-b40254b6ed0d)
 
----
+
 
 ## Key Objectives:
 - **System Redundancy:** Zetron's MAX Dispatch system is engineered with robust redundancy features to ensure high availability and reliability, which are critical for mission-critical dispatch operations.
