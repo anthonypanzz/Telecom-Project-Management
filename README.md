@@ -14,4 +14,17 @@ A Zetron MAX Dispatch solution was proposed to enhance reliability, functionalit
 
 By leading this initiative, we updated the technology and set our client up for long-term growth and continued innovation.
 
+---
+
+# Project Overview
+To improve the fire department’s operations, modernizing the dispatch communications is crucial. Implementing the Zetron MAX Dispatch system will provide a reliable, scalable, and redundant platform that enhances response times and interoperability with existing radio systems and emergency services. Ensuring 24/7 operational availability through robust redundancy will maintain uninterrupted dispatch capabilities, leading to more efficient emergency responses.
+
+**Planning:**
+
+- **Scope:** Outlining tasks including site surveys, network upgrades, console deployment, training, and cutover support.
+- **Schedule and Cost:** Created a project schedule with milestones (Network Validation, Equipment Delivery, Console Setup, Cutover). Estimated costs for hardware, software licensing, labor, and contingency reserves.
+- **Risk Management:** Identified key risks: power outages during install, vendor delays, dispatcher resistance to new UI. Developed mitigation strategies: backup power checks, staged equipment delivery, early engagement/training of dispatchers.
+- **Communication:** Weekly status reports, bi-weekly stakeholder check-ins, and escalation meetings. Defined escalation path for issues and change requests.
+- **Quality:** Validating systems (failover tests, audio quality, latency).  
+
 
