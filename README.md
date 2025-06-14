@@ -23,7 +23,8 @@ By leading this initiative, we updated the technology and set our client up for 
 # Project Overview
 To improve the fire department’s operations, modernizing the dispatch communications is crucial. Implementing the Zetron MAX Dispatch system will provide a reliable, scalable, and redundant platform that enhances response times and interoperability with existing radio systems and emergency services. Ensuring 24/7 operational availability through robust redundancy will maintain uninterrupted dispatch capabilities, leading to more efficient emergency responses.
 
-![ic-og-ProjectManagementforGovernment-FacebookLinkedIn](https://github.com/user-attachments/assets/d70ea19b-64fb-40b2-8802-86f0f911c825)
+
+![project-manager-technology](https://github.com/user-attachments/assets/3ed43adc-d23e-43ee-8580-f4ff2c1406e7)
 
 
 **Planning:**
