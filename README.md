@@ -72,6 +72,9 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 ---
 
+![image](https://github.com/user-attachments/assets/769222cc-793b-4e94-b230-e454c210450f)
+
+
 **The Results:**
 
 This project was a resounding success, delivering significant benefits to both our clients and stakeholders. 
