@@ -24,10 +24,11 @@ By leading this initiative, we updated the technology and set our client up for 
 To improve the fire department’s operations, modernizing the dispatch communications is crucial. Implementing the Zetron MAX Dispatch system will provide a reliable, scalable, and redundant platform that enhances response times and interoperability with existing radio systems and emergency services. Ensuring 24/7 operational availability through robust redundancy will maintain uninterrupted dispatch capabilities, leading to more efficient emergency responses.
 
 
+# Planning:
+
 ![project-manager-technology](https://github.com/user-attachments/assets/3ed43adc-d23e-43ee-8580-f4ff2c1406e7)
 
 
-**Planning:**
 
 - **Scope:** Outlining tasks including site surveys, network upgrades, console deployment, training, and cutover support.
 - **Schedule and Cost:** Created a project schedule with milestones (Network Validation, Equipment Delivery, Console Setup, Cutover). Estimated costs for hardware, software licensing, labor, and contingency reserves.
@@ -37,11 +38,11 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 ---
 
+# Executing:
+
 ![execute](https://github.com/user-attachments/assets/3602d1d8-726c-4a6a-b5ed-ef8ec9b5c5eb)
 
 
-
-**Executing:**
 
 - **Site Preparation and Network Configuration:** Coordinated network readiness (VLAN provisioning, IP Adressing, Firewall Adjustments).
 - **System Deployments:** Oversee installation of Zetron MAX consoles, network hardware, and VoIP integrations. Collaborate with Zetron engineers to configure software.
@@ -50,7 +51,7 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 ---
 
-**Monitoring and Controlling:**
+# Monitoring and Controlling:
 
 ![ce_priority2_CreativeLenses](https://github.com/user-attachments/assets/f851d6a4-7041-4034-92da-577cb3fa6df6)
  
@@ -61,7 +62,7 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 ---
 
-**Closing:**
+# Closing:
 
 ![1707887717660](https://github.com/user-attachments/assets/75aede18-1684-498b-a8a1-f3f82217bd0b)
 
@@ -73,7 +74,7 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 ---
 
-**The Results:**
+# The Results:
 
 ![image](https://github.com/user-attachments/assets/769222cc-793b-4e94-b230-e454c210450f)
 
