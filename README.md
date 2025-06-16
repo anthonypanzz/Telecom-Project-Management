@@ -64,23 +64,27 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 # Closing:
 
-![1707887717660](https://github.com/user-attachments/assets/75aede18-1684-498b-a8a1-f3f82217bd0b)
-
-
-
 - **Final Deliverables:** Compiled and submitted a project closure report with training, issue log resolution, system diagram, and support documentation. Facilitated sign-off from client stakeholders, dispatch supervisors, and IT leadership.
 - **Transition to Operations:** Created a package binder for IT and dispatch team including system documentation, warranty info, and vendor contacts. Scheduled post-cutover check-ins for 30, 60, and 90 days.
 - **Lessons Learned:** Dispatcher involvement improved adoption; staging consoles ahead of network readiness caused minor rework. Archived all documents in the clients shared drive and internal PMO system.
 
 ---
 
-# The Results:
+# The Results and Impact:
 
 ![image](https://github.com/user-attachments/assets/769222cc-793b-4e94-b230-e454c210450f)
 
+This project was a resounding success, delivering significant benefits to both our clients and stakeholders.
 
 
-This project was a resounding success, delivering significant benefits to both our clients and stakeholders. 
+-**Operational Efficiency:** Dispatchers handle calls and radio traffic faster due to customizable, intuitive interfaces.
+-**Interagency Coordination:** Improved interoperability with other systems (CAD, fire alerting, P25 radios) enabling seamless coordination during multi-agency emergencies.
+-**Enhanced Reliability and Redundancy:** Mission-critical uptime with network and hardware redundancy. Ensures dispatch continuity during natural disasters, cyber threats, or outages.
+-**Scalability:** Systems are modular and IP-based, allowing for gradual upgrades without major overhauls.
+-**ROI and Performance:** Report lower incident handling times, higher dispatcher productivity, and fewer system-related outages post-implementation. Justifies investment through both direct (time saved) and indirect (public safety outcomes) returns.
+
+
+
 
 
 
