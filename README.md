@@ -77,11 +77,11 @@ To improve the fire department’s operations, modernizing the dispatch communic
 This project was a resounding success, delivering significant benefits to both our clients and stakeholders.
 
 
--**Operational Efficiency:** Dispatchers handle calls and radio traffic faster due to customizable, intuitive interfaces.
--**Interagency Coordination:** Improved interoperability with other systems (CAD, fire alerting, P25 radios) enabling seamless coordination during multi-agency emergencies.
--**Enhanced Reliability and Redundancy:** Mission-critical uptime with network and hardware redundancy. Ensures dispatch continuity during natural disasters, cyber threats, or outages.
--**Scalability:** Systems are modular and IP-based, allowing for gradual upgrades without major overhauls.
--**ROI and Performance:** Report lower incident handling times, higher dispatcher productivity, and fewer system-related outages post-implementation. Justifies investment through both direct (time saved) and indirect (public safety outcomes) returns.
+- **Operational Efficiency:** Dispatchers handle calls and radio traffic faster due to customizable, intuitive interfaces.
+- **Interagency Coordination:** Improved interoperability with other systems (CAD, fire alerting, P25 radios) enabling seamless coordination during multi-agency emergencies.
+- **Enhanced Reliability and Redundancy:** Mission-critical uptime with network and hardware redundancy. Ensures dispatch continuity during natural disasters, cyber threats, or outages.
+- **Scalability:** Systems are modular and IP-based, allowing for gradual upgrades without major overhauls.
+- **ROI and Performance:** Report lower incident handling times, higher dispatcher productivity, and fewer system-related outages post-implementation. Justifies investment through both direct (time saved) and indirect (public safety outcomes) returns.
 
 
 
