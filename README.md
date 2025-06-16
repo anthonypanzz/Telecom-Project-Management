@@ -50,10 +50,10 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 ---
 
+**Monitoring and Controlling:**
+
 ![ce_priority2_CreativeLenses](https://github.com/user-attachments/assets/f851d6a4-7041-4034-92da-577cb3fa6df6)
-
-
-**Monitoring and Controlling:** 
+ 
 
 - **Performance Tracking:** Monitored project KPIs and tracking real-time progress visibility.
 - **Issue and Risk Management:** Logged and tracked issues: interference during testing, login issues on legacy systems, and minor audio jitter.
@@ -61,10 +61,11 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 ---
 
+**Closing:**
+
 ![1707887717660](https://github.com/user-attachments/assets/75aede18-1684-498b-a8a1-f3f82217bd0b)
 
 
-**Closing:**
 
 - **Final Deliverables:** Compiled and submitted a project closure report with training, issue log resolution, system diagram, and support documentation. Facilitated sign-off from client stakeholders, dispatch supervisors, and IT leadership.
 - **Transition to Operations:** Created a package binder for IT and dispatch team including system documentation, warranty info, and vendor contacts. Scheduled post-cutover check-ins for 30, 60, and 90 days.
@@ -72,10 +73,11 @@ To improve the fire department’s operations, modernizing the dispatch communic
 
 ---
 
+**The Results:**
+
 ![image](https://github.com/user-attachments/assets/769222cc-793b-4e94-b230-e454c210450f)
 
 
-**The Results:**
 
 This project was a resounding success, delivering significant benefits to both our clients and stakeholders. 
 
